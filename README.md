@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Daxter
+- 👀 I’m interested in write Scripts
+- 🌱 I’m currently learning LUA-MTA:sa
+- 📫 How to reach me , Discord : Daxter#5034
